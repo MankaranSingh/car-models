@@ -2,7 +2,7 @@
 
  A car game to learn about simple vehicle dynamics in python
 
- ![ss]()
+ ![ss](https://raw.githubusercontent.com/MankaranSingh/go-brrr/main/images/ss.JPG)
 
 # Installation 
 
