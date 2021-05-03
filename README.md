@@ -9,7 +9,8 @@
  `pip install -r requirements.txt`
 
 # Running
- - `python run.py`
+ - `python run.py` for kinematic model
+ - `python run.py dynamic` for dynamic model
 
 # controls 
 
