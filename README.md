@@ -1,6 +1,6 @@
-# go-brrr
+# car-models
 
- A car game to learn about simple vehicle dynamics in python
+ A car simulation to learn about simple vehicle dynamics in python
 
  ![ss](https://raw.githubusercontent.com/MankaranSingh/go-brrr/main/images/ss.JPG)
 
