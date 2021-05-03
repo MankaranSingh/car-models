@@ -1,13 +1,18 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from bicycle_model import Bicycle
+from dynamic_bicycle_model import DynamicBicycle
 import keyboard
 from ui import plot_car
+import sys
 
-car = Bicycle()
+if 'dynamic' in sys.argv:
+    car = DynamicBicycle()
+else:
+    car = Bicycle()
 
 D_STEER = 0.2
-D_A = 0.5
+D_A = 0.75
 
 area = 20
 
